@@ -1,3 +1,4 @@
+package primeiro;
 
 public class SomaIndices {
 
